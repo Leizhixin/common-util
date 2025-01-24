@@ -1,4 +1,4 @@
-module common-util
+module github.com/Leizhixin/common-util
 
 go 1.23
 
