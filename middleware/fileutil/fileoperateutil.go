@@ -1,8 +1,8 @@
 package fileutil
 
 import (
-	"common-util/middleware/beanutil"
 	"encoding/json"
+	"github.com/Leizhixin/common-util/middleware/beanutil"
 	"os"
 )
 
